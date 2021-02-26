@@ -1,0 +1,9 @@
+Which handlers run?
+
+1
+2
+
+Because, we can't remove a function like that it just removes a separate one.
+To fix that we would need to write and save the function into a variable.
+The first one runs because it wasn't deleted too.
+The 'button.onclick' is separate from all of these and works as it was intended.
